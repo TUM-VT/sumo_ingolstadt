@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<configuration>
+   <input>
+      <net-file value="ingolstadt_24h.net.xml"/>
+      <route-files value="motorized_routes_2020-09-16_24h.rou.xml"/>
+      <gui-settings-file value="gui_settings.settings.xml"/>
+      <additional-files value="tlLogics_WAUT_2020-09-16_24h.add.xml, ingolstadt.poly.xml"/>
+   </input>
+   <time>
+      <begin value="0"/>
+      <end value="86400"/>
+   </time>
+   <processing>
+      <step-length value="0.25"/>
+      <ignore-junction-blocker value="15"/>
+      <time-to-teleport value="300"/>
+      <max-depart-delay value="100"/>
+      <device.rerouting.probability value="0.2"/>
+   </processing>
+</configuration>

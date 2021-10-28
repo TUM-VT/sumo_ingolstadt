@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<viewsettings>
+   <delay value="50"/>
+   <scheme name="real world">
+      <vehicles vehicle_constantSize="1" vehicleMode="8"/>
+   </scheme>
+</viewsettings>
