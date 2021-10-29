@@ -49,4 +49,3 @@ Marcel Langer, Michael Harth, Lena Preitschaft, Ronald Kates and Klaus Bogenberg
 ## Licence
 
 The simulation is distributed by AUDI AG and the Chair of Traffic Engineering and Control of the Technical University of Munich under the Apache License Version 2.0. SUMO is available as open source under the Eclipse Public License 2.0. For more detailled information check [LICENSE](LICENSE.md). 
-
