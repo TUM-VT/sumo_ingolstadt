@@ -14,11 +14,10 @@ Details on the calibration procedure were published at the 2021 SUMO Conference.
 
 ## Next steps:
 
-Feel free to contact us e.g. by creating an issue in the repository regarding questions or improvements to the simulation.
-
 * Include public transport
 * Improvement of bicycle simulation based on cycling trajectory data
 
+Feel free to contact us e.g. by creating an [issue](https://github.com/TUM-VT/sumo_ingolstadt/issues) in the repository regarding questions or improvements to the simulation.
 
 
 ## Known issues:
