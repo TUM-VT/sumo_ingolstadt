@@ -1,3 +1,0 @@
-*.rou.xml filter=lfs diff=lfs merge=lfs -text
-*.net.xml filter=lfs diff=lfs merge=lfs -text
-*.poly.xml filter=lfs diff=lfs merge=lfs -text

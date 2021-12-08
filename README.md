@@ -9,8 +9,6 @@
 
 To run the simulation you need to download Eclipse SUMO (Simulation of Urban Mobility) from [eclipse](https://www.eclipse.org/sumo/) or [github](https://github.com/eclipse/sumo). The provided simulation was developed and tested with SUMO 1.10.0.
 
-Make sure you have [git lfs](https://git-lfs.github.com/) set-up since all large .xml files are tracked using it.
-
 After cloning, you can run the simulation by running the config file **simulation/24h_sim.sumocfg**.
 
 If the simulation is slow, try removing the polygons from the config file.
