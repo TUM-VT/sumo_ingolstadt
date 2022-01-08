@@ -13,7 +13,8 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        sumo_build: [ubuntu, ppa, nightly]
+        sumo_build: [ppa, nightly]
+#        sumo_build: [ubuntu, ppa, nightly]
 
     steps:
     - name: Cloning Scenario
@@ -41,7 +42,7 @@ jobs:
       run: |
         echo $SUMO_HOME; sumo  # just to check
         sumo -c simulation/24h_sim.sumocfg -l sumo.log
-        sumo -c simulation/24h_bicycle_sim.sumocfg -l sumo_bicycle.log
+        sumo -c simulation/24h_bicycle_sim.sumocfg -e 3600 -l sumo_bicycle.log  # the full scenario would take too long
 
     - name: Upload Log
       if: ${{ always() }}
