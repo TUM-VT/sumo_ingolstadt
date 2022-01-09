@@ -1,0 +1,52 @@
+name: linux
+
+on:
+  workflow_dispatch:  # can trigger it manually
+  push:               # run with every push
+  pull_request:       # and pull request
+  schedule:           # check once a week whether the bleeding edge sumo is still compatible
+    - cron:  '42 3 * * 1'
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        sumo_build: [ppa, nightly]
+#        sumo_build: [ubuntu, ppa, nightly]
+
+    steps:
+    - name: Cloning Scenario
+      uses: actions/checkout@v2
+
+    - name: Preparing System
+      run: |
+        if [[ "${{ matrix.sumo_build }}" == "ppa" ]]; then sudo add-apt-repository ppa:sumo/stable; fi
+        sudo apt-get update
+
+    - name: Installing SUMO from repo
+      if: matrix.sumo_build != 'nightly'
+      run: |
+        sudo apt-get install sumo sumo-tools
+        echo "SUMO_HOME=/usr/share/sumo" >> $GITHUB_ENV
+
+    - name: Installing SUMO from PyPI
+      if: matrix.sumo_build == 'nightly'
+      run: |
+        python -m pip install --index-url https://test.pypi.org/simple/ eclipse-sumo
+        python -c "import sumo; print('SUMO_HOME=' + sumo.SUMO_HOME)" >> $GITHUB_ENV
+
+    - name: Running Scenario
+      if: matrix.sumo_build == 'nightly' || github.event_name != 'schedule'
+      run: |
+        echo $SUMO_HOME; sumo  # just to check
+        sumo -c simulation/24h_sim.sumocfg -l sumo.log
+        sumo -c simulation/24h_bicycle_sim.sumocfg -e 3600 -l sumo_bicycle.log  # the full scenario would take too long
+
+    - name: Upload Log
+      if: ${{ always() }}
+      uses: actions/upload-artifact@v2
+      with:
+          name: sumo-${{ matrix.sumo_build }}-log
+          path: sumo*.log
