@@ -18,6 +18,9 @@ If the simulation is slow, try removing the polygons from the config file.
 
 The 24h simulation currently contains routes for passenger vehicles, heavy-vehicle traffic as well as bicycles. Both vehicle demand as well as traffic light settings are created from data for Wednesday the 16.09.2020 to create a weekday traffic situation mostly uninfluenced by covid-restrictions. More details on the simulation setup are provided in [simulation_setup](docs/simulation_setup.md) and in the listed publications.
 
+Please note that while there are sidewalks on several streets the network *should not* be used for pedestrian simulation.
+There are crossings missing in several places, making it disconnected.
+
 
 ## Contributing
 
