@@ -21,6 +21,8 @@ The 24h simulation currently contains routes for passenger vehicles, heavy-vehic
 Please note that while there are sidewalks on several streets the network *should not* be used for pedestrian simulation.
 There are crossings missing in several places, making it disconnected.
 
+Furthermore you should always load the WAUT mentioned in the config file because the default traffic lights are not working correctly.
+
 
 ## Contributing
 
