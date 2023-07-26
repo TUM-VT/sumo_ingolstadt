@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2023-07-19 14:06:30 by Eclipse SUMO GUI Version 1.17.0
+-->
+
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="23-07-19_ingolstadt_updated_net.net.xml"/>
+        <route-files value="23-07-19_motorized_routes_2020-09-16_24h_updated_net_final.xml, 23-01-18_pt_gtfs_trips.rou.xml"/>
+        <additional-files value="23-07-19_pt_stops_gtfs_updated_net.add.xml, tlLogics_WAUT_2020-09-16_24h.add.xml"/>
+    </input>
+
+    <processing>
+      <step-length value="0.25"/>
+      <ignore-junction-blocker value="15"/>
+      <time-to-teleport value="300"/>
+      <max-depart-delay value="100"/>
+      <device.rerouting.probability value="0.2"/>
+      <device.emissions.probability value="1.0"/>        
+    </processing>
+
+     <time>
+      <begin value="14:30:00"/>
+      <!--end value="08:00:00"/-->
+   </time>
+
+</configuration>
