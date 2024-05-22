@@ -52,7 +52,7 @@ The Multi-Day Simulation of Multimodal Traffic has been presented with a poster 
 * We appreciate the funding of the [SAVe:](https://save-in.digital/) and [KIVI](https://www.bmvi.de/SharedDocs/DE/Artikel/DG/KI-Projekte/kivi-kuenstliche-intelligenz-im-verkehrssystem-ingolstadts.html) research projects by [BMVI](https://www.bmvi.de/DE/Home/home.html) as well as the funding for the [SAVeNoW](https://www.bmvi.de/SharedDocs/DE/Artikel/DG/AVF-projekte/savenow.html) research project by [BMWi](https://www.bmwi.de/Navigation/DE/Home/home.html).
 * Initial setup by [Marcel Langer](https://www.linkedin.com/in/marcel-langer-18b3a4175/) and [Michael Harth](https://www.linkedin.com/in/michael-harth-916130145/).
 * Continuous improvements by [Natalie Sautter](https://www.mos.ed.tum.de/vt/mitarbeiter-innen/sautter-natalie/), [Martin Margreiter](https://www.mos.ed.tum.de/vt/mitarbeiter-innen/margreiter-martin/) and [Mario Ilic](https://www.mos.ed.tum.de/vt/mitarbeiter-innen/ilic-mario/) in the SAVeNoW and KIVI Projects.
-* Public Transport integration and Multi-Day Simulation created by [Joel Brodersen](https://de.linkedin.com/in/joel-brodersen-0b1799205)
+* Public Transport Integration and Multi-Day Simulation created by [Joel Brodersen](https://de.linkedin.com/in/joel-brodersen-0b1799205)
 * Special thanks to all who supported to project over the years including Philipp Neuhaus, Lena Preitschaft, Philipp Wulff, Navneet Singh Dhir, Camilo Cardona Torres and Danil Belikhov.
 
 
