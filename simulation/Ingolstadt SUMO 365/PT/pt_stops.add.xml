@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2023-11-15 17:05:55 by Eclipse SUMO netedit Version 1.18.0
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <!-- StoppingPlaces -->
+    <busStop id="101" name="Klinik - Dr. Reiser" lane="233673410#0_2" startPos="11.41" endPos="21.41"/>
+    <busStop id="102" name="Klinik - Dr. Reiser" lane="-233673410#0_2" startPos="3.09" endPos="13.09"/>
+    <busStop id="103401" name="Altwasserweg" lane="-164051425#2_1" startPos="144.43" endPos="170.62"/>
+    <busStop id="103402" name="Altwasserweg " lane="164051425#2_1" startPos="12.42" endPos="38.42" friendlyPos="true"/>
+    <busStop id="104201" name="Bezirkssportanlage Nord-West" lane="24634510#21_1" startPos="2.43" endPos="28.43" friendlyPos="true"/>
+    <busStop id="104203" name="Bezirkssportanlage Nord-West" lane="201238726#0_0" startPos="7.91" endPos="17.91"/>
+    <busStop id="10599" name="Boschstraße" lane="-22486129#0_1" startPos="132.98" endPos="158.98" friendlyPos="true"/>
+    <busStop id="10801" name="Breslauer Straße" lane="201953161#7_1" startPos="77.53" endPos="103.53" friendlyPos="true"/>
+    <busStop id="10802" name="Breslauer Straße" lane="-115881043#9_1" startPos="5.62" endPos="31.62" friendlyPos="true"/>
+    <busStop id="10902" name="Brodmühlweg" lane="-173169611#2_2" startPos="94.85" endPos="104.85" friendlyPos="true"/>
+    <busStop id="11001" name="Brückenkopf" lane="-32923867#4_2" startPos="5.45" endPos="31.45" friendlyPos="true"/>
+    <busStop id="11002" name="Brückenkopf" lane="32923867#4_2" startPos="9.92" endPos="35.92" friendlyPos="true"/>
+    <busStop id="11301" name="Buchnerstraße" lane="201926265#5_1" startPos="0.30" endPos="26.30" friendlyPos="true"/>
+    <busStop id="11302" name="Buchnerstraße" lane="-201926265#5_1" startPos="47.20" endPos="73.20" friendlyPos="true"/>
+    <busStop id="11499" name="Bunsenstraße " lane="-305496616#3_1" startPos="20.43" endPos="46.43" friendlyPos="true"/>
+    <busStop id="118201" name="Lenting, Blockhaus" lane="11940927#5_1" startPos="124.73" endPos="150.73" friendlyPos="true"/>
+    <busStop id="118202" name="Lenting, Blockhaus" lane="-11940927#5_1" startPos="404.01" endPos="430.01" friendlyPos="true"/>
+    <busStop id="12601" name="Linnestraße" lane="-233675413#3_2" startPos="56.92" endPos="66.92" friendlyPos="true"/>
+    <busStop id="12602" name="Buxheimer Weg" lane="233675413#3_2" startPos="8.96" endPos="18.96" friendlyPos="true"/>
+    <busStop id="12701" name="Canisiusstraße" lane="-201286890#6_1" startPos="15.57" endPos="41.57" friendlyPos="true"/>
+    <busStop id="12702" name="Canisiusstraße" lane="201286890#6_1" startPos="23.75" endPos="49.75" friendlyPos="true"/>
+    <busStop id="12901" name="Christoph-Scheiner-Gymnasium" lane="-51856496#0_2" startPos="24.53" endPos="34.53"/>
+    <busStop id="12902" name="Christoph-Scheiner-Gymnasium" lane="390282481_2" startPos="16.88" endPos="26.88"/>
+    <busStop id="13201" name="Degenhartstraße" lane="-18813598#2_2" startPos="68.75" endPos="78.75">
+        <param key="Busbucht" value="ja"/>
+    </busStop>
+    <busStop id="13202" name="Degenhartstraße" lane="18813598#1_2" startPos="24.79" endPos="34.79"/>
+    <busStop id="13401" name="Kösching-Desching, Raffineriesiedlung " lane="-204095914#0_1" startPos="48.47" endPos="74.47" friendlyPos="true">
+        <param key="Busbucht" value="ja"/>
+    </busStop>
+    <busStop id="13402" name="Kösching-Desching, Raffineriesiedlung " lane="204095914#0_1" startPos="100.03" endPos="126.03" friendlyPos="true">
+        <param key="Busbucht" value="ja"/>
+    </busStop>
+    <busStop id="13501" name="Deschinger Straße " lane="25638761#0_1" startPos="6.98" endPos="19.98" friendlyPos="true"/>
+    <busStop id="13502" name="Deschinger Straße" lane="-39861708#1_2" startPos="5.34" endPos="15.34" friendlyPos="true"/>
+    <busStop id="13702" name="Dr.-Maier-Straße" lane="-391029011#3_1" startPos="0.00" endPos="13.00" friendlyPos="true"/>
+    <busStop id="145901" name="Audi - GVZ Halle H" lane="-320733910#1_2" startPos="62.32" endPos="76.14"/>
+    <busStop id="145902" name="Audi - GVZ Halle H" lane="320733910#1_2" startPos="1.09" endPos="20.65"/>
+    <busStop id="146701" name="Technische Hochschule" lane="-145069303#4_1" startPos="21.28" endPos="31.28"/>
+    <busStop id="146702" name="Technische Hochschule" lane="145069303#4_1" startPos="18.83" endPos="28.83"/>
+    <busStop id="147301" name="Wielandstraße" lane="-29027727#9_2" startPos="10.78" endPos="20.78"/>
+    <busStop id="147302" name="Wielandstraße" lane="29027727#9_2" startPos="65.42" endPos="75.42"/>
+    <busStop id="14798" name="Effnerstraße " lane="-23622107#3_1" startPos="7.31" endPos="33.31" friendlyPos="true"/>
+    <busStop id="14799" name="Effnerstraße " lane="23622107#4_1" startPos="6.24" endPos="32.24" friendlyPos="true"/>
+    <busStop id="148199" name="Existenzgründerzentrum" lane="-23258631#5_1" startPos="22.39" endPos="32.39"/>
+    <busStop id="148301" name="Audi - GVZ, Halle G" lane="-320733909#1_2" startPos="4.32" endPos="14.32"/>
+    <busStop id="148302" name="Audi - GVZ, Halle G" lane="320733909#1_2" startPos="19.69" endPos="29.69"/>
+    <busStop id="14899" name="Egerlandstraße" lane="140834249#8_1" startPos="79.94" endPos="105.95" friendlyPos="true"/>
+    <busStop id="149299" name="Audi - GVZ, Halle O" lane="98323002#3_0" startPos="90.66" endPos="105.18"/>
+    <busStop id="156198" name="Schwäblstraße" lane="-48742425#3_2" startPos="59.79" endPos="75.09"/>
+    <busStop id="156199" name="Schwäblstraße" lane="48742425#3_2" startPos="34.13" endPos="50.40">
+        <param key="Busbucht" value="ja"/>
+    </busStop>
+    <busStop id="156301" name="Friedhof, Oberhaunstadt " lane="25377287#7_1" startPos="72.34" endPos="98.34" friendlyPos="true"/>
+    <busStop id="156302" name="Friedhof, Oberhaunstadt " lane="-32203888#1_1" startPos="35.56" endPos="61.56" friendlyPos="true"/>
+    <busStop id="156401" name="Röntgenstraße" lane="25377287#3_1" startPos="2.47" endPos="28.47" friendlyPos="true"/>
+    <busStop id="156402" name="Röntgenstraße" lane="-25377287#2_1" startPos="0.00" endPos="16.91" friendlyPos="true"/>
+    <busStop id="156501" name="Nobelstraße" lane="29459180#1_1" startPos="155.45" endPos="181.45" friendlyPos="true">
+        <param key="Busbucht" value="ja"/>
+    </busStop>
+    <busStop id="156502" name="Nobelstraße" lane="-32140444#3_1" startPos="83.24" endPos="109.24" friendlyPos="true">
+        <param key="Busbucht" value="ja"/>
+    </busStop>
+    <busStop id="157401" name="St. Markus" lane="266607804#1_2" startPos="55.10" endPos="65.10" friendlyPos="true"/>
+    <busStop id="157402" name="St. Markus" lane="-266607803#1_2" startPos="49.31" endPos="59.31" friendlyPos="true"/>
+    <busStop id="159401" name="Audi - Tradition" lane="-320733911#0_2" startPos="18.27" endPos="28.27"/>
+    <busStop id="159402" name="Audi - Tradition" lane="320733908_2" startPos="12.99" endPos="27.35"/>
+    <busStop id="162401" name="Donautherme" lane="-164051438#0.17_2" startPos="30.82" endPos="56.82" friendlyPos="true"/>
+    <busStop id="162402" name="Donautherme" lane="164051438#0_2" startPos="41.20" endPos="67.20" friendlyPos="true"/>
+    <busStop id="162598" name="Saturn-Arena " lane="141058765_2" startPos="18.30" endPos="44.30" friendlyPos="true">
+        <param key="Busbucht" value="ja"/>
+    </busStop>
+    <busStop id="162599" name="Saturn-Arena " lane="4268816#0_2" startPos="37.15" endPos="63.15" friendlyPos="true">
+        <param key="Busbucht" value="ja"/>
+    </busStop>
+    <busStop id="162601" name="Liegnitzer Straße " lane="201953161#0_1" startPos="13.55" endPos="39.55" friendlyPos="true">
+        <param key="Busbucht" value="ja"/>
+    </busStop>
+    <busStop id="162602" name="Liegnitzer Straße " lane="-140834255#1_1" startPos="31.39" endPos="57.39" friendlyPos="true"/>
+    <busStop id="162603" name="Liegnitzer Straße " lane="140834255#1_1" startPos="1.74" endPos="27.74" friendlyPos="true"/>
+    <busStop id="164801" name="St. Anton" lane="26339476#1_1" startPos="13.10" endPos="23.10"/>
+    <busStop id="164802" lane="201078448#3_1" startPos="84.85" endPos="106.42" friendlyPos="true"/>
+    <busStop id="164803" name="St. Anton" lane="200949176#0_2" startPos="15.90" endPos="25.90"/>
+    <busStop id="16501" name="Eigenheimstraße " lane="-40623117#1_2" startPos="0.00" endPos="23.38" friendlyPos="true"/>
+    <busStop id="16502" name="Eigenheimstraße" lane="391208988_2" startPos="12.85" endPos="22.85"/>
+    <busStop id="167301" name="Nordbahnhof Ost" lane="29027727#0_2" startPos="16.06" endPos="30.59"/>
+    <busStop id="167302" name="Nordbahnhof Ost" lane="-29027727#0_2" startPos="9.90" endPos="24.65"/>
+    <busStop id="167799" name="Ingolstadt Village" lane="25623134#0_1" startPos="0.00" endPos="13.83" friendlyPos="true"/>
+    <busStop id="168101" name="Frühlingstraße" lane="24970784#5_2" startPos="13.37" endPos="23.37"/>
+    <busStop id="168102" name="Frühlingstraße" lane="-24970784#3_2" startPos="10.94" endPos="20.94"/>
+    <busStop id="173101" name="Speckweg" lane="675757785#2_1" startPos="42.60" endPos="75.03" friendlyPos="true"/>
+    <busStop id="173102" name="Speckweg" lane="-675757785#3_1" startPos="181.90" endPos="207.90" friendlyPos="true"/>
+    <busStop id="17901" name="Eriagstraße" lane="146973214#11_0" startPos="0.00" endPos="14.16" friendlyPos="true"/>
+    <busStop id="17902" name="Eriagstraße" lane="-146973214#9_0" startPos="0.62" endPos="26.62" friendlyPos="true"/>
+    <busStop id="18001" name="Erletstraße" lane="-22486112#1_1" startPos="42.74" endPos="68.74" friendlyPos="true"/>
+    <busStop id="18002" name="Erletstraße" lane="22486112#0_1" startPos="9.25" endPos="40.24" friendlyPos="true"/>
+    <busStop id="180301" name="Linnestraße" lane="136728344#4.72_1" startPos="44.34" endPos="66.77"/>
+    <busStop id="180302" name="Friedrichshofener Straße" lane="-130185488#1.58_1" startPos="3.15" endPos="29.15" friendlyPos="true"/>
+    <busStop id="180801" name="Gaimersheim, Gewerbegebiet" lane="-161783477_1" startPos="164.08" endPos="190.08" friendlyPos="true">
+        <param key="Busbucht" value="ja"/>
+    </busStop>
+    <busStop id="180802" name="Gaimersheim, Gewerbegebiet" lane="-161783480_1" startPos="0.00" endPos="13.00" friendlyPos="true">
+        <param key="Busbucht" value="ja"/>
+    </busStop>
+    <busStop id="181101" name="Elisabethstraße" lane="718844698#6_1" startPos="0.34" endPos="13.38"/>
+    <busStop id="181102" name="Elisabethstraße " lane="-718844698#6_1" startPos="23.40" endPos="36.50" friendlyPos="true"/>
+    <busStop id="18301" name="Ettringer Straße" lane="-315358242#3_2" startPos="4.51" endPos="27.27"/>
+    <busStop id="18302" name="Ettinger Straße" lane="315358242#4_2" startPos="39.27" endPos="58.08">
+        <param key="Busbucht" value="ja"/>
+    </busStop>
+    <busStop id="18303" name="Ettinger Straße" lane="386687242#1_2" startPos="10.06" endPos="31.89"/>
+    <busStop id="18304" name="Ettinger Straße" lane="386687235#1_2" startPos="13.17" endPos="33.95">
+        <param key="Busbucht" value="ja"/>
+    </busStop>
+    <busStop id="184096" name="Audi - Sportpark" lane="387031636.74_0" startPos="25.84" endPos="36.23"/>
+    <busStop id="184097" name="Audi - Sportpark" lane="387031636.74_0" startPos="48.64" endPos="60.59"/>
+    <busStop id="184099" name="Audi - Sportpark" lane="387031636_0" startPos="0.00" endPos="69.54" friendlyPos="true"/>
+    <busStop id="184599" name="Ingolstadt, Hauptbahnhof Ost" lane="-591899019_0" startPos="14.53" endPos="40.57"/>
+    <busStop id="184601" name="Gaimersheim, Horchstraße" lane="320733892#0_1" startPos="41.98" endPos="67.98" friendlyPos="true"/>
+    <busStop id="184602" name="Gaimersheim, Horchstraße" lane="-148527688#2_1" startPos="9.41" endPos="35.41" friendlyPos="true"/>
+    <busStop id="184901" name="Gaimersheim, Bahnhof" lane="E3_0" startPos="83.35" endPos="93.35"/>
+    <busStop id="184902" name="Gaimersheim, Bahnhof" lane="-E3_0" startPos="29.38" endPos="39.38"/>
+    <busStop id="185001" name="Audi Tor 3" lane="-542806889_2" startPos="48.34" endPos="58.34" friendlyPos="true"/>
+    <busStop id="185002" name="Audi Tor 3" lane="542806889_2" startPos="11.56" endPos="21.56" friendlyPos="true"/>
+    <busStop id="18501" name="Fauststraße" lane="-60100821#0_1" startPos="30.62" endPos="53.96"/>
+    <busStop id="18502" name="Fauststraße" lane="60100821#0_1" startPos="41.37" endPos="67.37" friendlyPos="true"/>
+    <busStop id="185101" name="Audi - A 56" lane="611319808#2_0" startPos="4.44" endPos="14.44"/>
+    <busStop id="185102" name="Audi - A 56" lane="805074683#0_0" startPos="43.52" endPos="53.52"/>
+    <busStop id="185301" name="Audi - T 35 / T 23" lane="-335392792_0" startPos="77.85" endPos="87.85"/>
+    <busStop id="185302" name="Audi - T 35 / T 23" lane="335392792_0" startPos="17.43" endPos="27.43"/>
+    <busStop id="185699" name="Lentinger Straße" lane="-127076895_1" startPos="0.00" endPos="29.49" friendlyPos="true"/>
+    <busStop id="18601" name="Feldschlößl" lane="4942575#0_2" startPos="63.34" endPos="73.34"/>
+    <busStop id="18602" name="Feldschlößl" lane="31342350#4_2" startPos="99.83" endPos="109.83"/>
+    <busStop id="186301" name="Am Eichelanger" lane="22603941#3_1" startPos="18.14" endPos="44.14" friendlyPos="true"/>
+    <busStop id="186302" name="Am Eichelanger" lane="-147014252#2_1" startPos="21.28" endPos="47.28" friendlyPos="true"/>
+    <busStop id="186501" name="Niederfelder Straße " lane="51262568_1" startPos="23.63" endPos="49.63" friendlyPos="true"/>
+    <busStop id="186502" name="Niederfelder Straße" lane="-30315926#1_2" startPos="17.29" endPos="27.29"/>
+    <busStop id="186601" name="Meinlettenstraße" lane="41494741#2_2" startPos="5.75" endPos="22.61"/>
+    <busStop id="186602" name="Meinlettenstraße" lane="-201400751#0_2" startPos="276.91" endPos="294.38"/>
+    <busStop id="18701" name="Feselenstraße" lane="23184252#2_1" startPos="44.41" endPos="70.41" friendlyPos="true"/>
+    <busStop id="18702" name="Feselenstraße" lane="-23184252#2_1" startPos="7.20" endPos="33.20" friendlyPos="true"/>
+    <busStop id="187401" name="Gaimersheim, Lilienthalstraße " lane="148527678#0_1" startPos="21.30" endPos="47.30" friendlyPos="true"/>
+    <busStop id="187402" name="Gaimersheim, Lilienthalstraße " lane="-148527678#0_1" startPos="94.99" endPos="120.99" friendlyPos="true"/>
+    <busStop id="188401" name="Audi - T2" lane="-206411605#7_0" startPos="6.81" endPos="16.81"/>
+    <busStop id="188402" name="Audi - T2" lane="206411605#7_0" startPos="129.98" endPos="139.98"/>
+    <busStop id="188501" name="Audi - T 41" lane="206411605#7_0" startPos="1.83" endPos="11.83"/>
+    <busStop id="188502" name="Audi - T41" lane="-206411605#7_0" startPos="131.93" endPos="141.93"/>
+    <busStop id="188601" name="Audi - Bahnhalt Süd" lane="-29254786#0_0" startPos="5.42" endPos="15.42"/>
+    <busStop id="188602" name="Audi - Bahnhalt Süd" lane="29254786#0_0" startPos="6.25" endPos="16.25"/>
+    <busStop id="189199" name="Pfingstäckerweg" lane="-23622056#0_1" startPos="67.21" endPos="91.82"/>
+    <busStop id="189299" name="Steigerwaldstraße " lane="-307536275#3_1" startPos="537.29" endPos="563.29" friendlyPos="true"/>
+    <busStop id="189799" name="Isaak-Newton-Straße" lane="-146973218#1_1" startPos="62.30" endPos="72.30"/>
+    <busStop id="190101" name="Am Kreuzäcker" lane="41522169#3_1" startPos="18.17" endPos="44.17" friendlyPos="true"/>
+    <busStop id="190102" name="Am Kreuzäcker" lane="-41522169#2_1" startPos="88.91" endPos="114.91" friendlyPos="true">
+        <param key="Busbucht" value="ja"/>
+    </busStop>
+    <busStop id="190601" name="Bahnhof Ingolstadt Audi - Bussteig 1" lane="763221359_0" startPos="12.90" endPos="27.15"/>
+    <busStop id="190602" name="Bahnhof Ingolstad Audi -Bussteig 2" lane="763221359.42_0" startPos="4.31" endPos="21.66"/>
+    <busStop id="190603" name="Bahnhof Ingolstad Audi -Bussteig 3" lane="763221359.42_0" startPos="27.47" endPos="44.70"/>
+    <busStop id="190604" name="Bahnhof Ingolstad Audi -Bussteig 4" lane="763221359.42_0" startPos="49.16" endPos="67.68"/>
+    <busStop id="190605" name="Bahnhof Ingolstad Audi -Bussteig 5" lane="763360623.15_0" startPos="12.51" endPos="29.93"/>
+    <busStop id="190606" name="Bahnhof Ingolstad Audi -Bussteig 6" lane="763360623.15_0" startPos="39.60" endPos="57.81"/>
+    <busStop id="190607" name="Bahnhof Ingolstad Audi -Bussteig 7" lane="763360623.15_0" startPos="65.08" endPos="82.65"/>
+    <busStop id="190608" name="Bahnhof Ingolstad Audi -Bussteig 8" lane="763360623.15_0" startPos="91.19" endPos="106.42"/>
+    <busStop id="19701" name="Fraunhoferstraße" lane="-205182378#5_1" startPos="63.07" endPos="89.07" friendlyPos="true"/>
+    <busStop id="19702" name="Fraunhoferstraße" lane="205182378#6_1" startPos="21.71" endPos="47.71" friendlyPos="true"/>
+    <busStop id="20101" name="Friedrich-Ebert-Straße" lane="137463475#2_2" startPos="78.28" endPos="88.28"/>
+    <busStop id="20102" name="Friedrich-Ebert-Straße" lane="-137463475#2_2" startPos="54.11" endPos="64.11"/>
+    <busStop id="20201" name="Frueaufstraße" lane="-201286890#3_1" startPos="71.48" endPos="97.48" friendlyPos="true"/>
+    <busStop id="20202" name="Frueaufstraße" lane="201286890#3_1" startPos="39.07" endPos="65.07" friendlyPos="true"/>
+    <busStop id="20401" name="Gabelsbergerstraße" lane="201238718#0_2" startPos="109.57" endPos="122.17"/>
+    <busStop id="20402" name="Gabelsbergerstraße" lane="-201238718#0_2" startPos="89.11" endPos="103.29"/>
+    <busStop id="21401" name="Gaimersheim, Kraibergstraße" lane="-320733901#1_1" startPos="21.58" endPos="31.58" friendlyPos="true"/>
+    <busStop id="21402" name="Gaimersheim, Kraibergstraße " lane="320733901#0_1" startPos="0.00" endPos="15.11" friendlyPos="true"/>
+    <busStop id="21601" name="Gaimersheim, Mittlere Heide " lane="-307562643#0_1" startPos="60.12" endPos="86.12" friendlyPos="true"/>
+    <busStop id="21602" name="Gaimersheim, Mittlere Heide " lane="379795383_1" startPos="0.00" endPos="20.10" friendlyPos="true">
+        <param key="Busbucht" value="ja"/>
+    </busStop>
+    <busStop id="23101" name="Gaimersheimer Straße" lane="28319300#0_1" startPos="0.00" endPos="25.98" friendlyPos="true"/>
+    <busStop id="23102" name="Gaimersheimer Straße" lane="-201201945#11_2" startPos="14.25" endPos="34.94"/>
+    <busStop id="23201" name="Ganghoferstraße " lane="30482638#12_1" startPos="7.56" endPos="33.56" friendlyPos="true"/>
+    <busStop id="23202" name="Ganghoferstraße " lane="-30482638#12_1" startPos="105.09" endPos="131.09" friendlyPos="true"/>
+    <busStop id="23301" name="Geibelstraße" lane="202070429#11_2" startPos="73.46" endPos="83.46"/>
+    <busStop id="23302" name="Geibelstraße" lane="-202070429#11_2" startPos="170.74" endPos="180.74"/>
+    <busStop id="2399" name="Am Westpark 1" lane="392714143#1.19_1" startPos="0.00" endPos="16.78" friendlyPos="true"/>
+    <busStop id="24101" name="Geisenfelder Straße " lane="-141058755#1_1" startPos="87.13" endPos="113.13" friendlyPos="true"/>
+    <busStop id="24102" name="Geisenfelder Straße " lane="141058755#1_1" startPos="66.98" endPos="92.98" friendlyPos="true"/>
+    <busStop id="24701" name="Georgstraße" lane="25638761#5_1" startPos="0.00" endPos="22.49" friendlyPos="true"/>
+    <busStop id="24702" name="Georgstraße" lane="-25638761#4_1" startPos="5.79" endPos="31.79" friendlyPos="true"/>
+    <busStop id="25999" name="Grundnerstraße" lane="391029014#0_1" startPos="0.00" endPos="17.88" friendlyPos="true"/>
+    <busStop id="26299" name="Gutenbergstraße " lane="-201789796_1" startPos="6.89" endPos="32.89" friendlyPos="true"/>
+    <busStop id="26601" name="Hackerstraße " lane="146973236#14_1" startPos="29.86" endPos="55.86" friendlyPos="true"/>
+    <busStop id="26602" name="Hackerstraße " lane="-146973236#13_1" startPos="0.00" endPos="25.20" friendlyPos="true"/>
+    <busStop id="27801" name="Haltmayrstraße" lane="-136728347#0_2" startPos="12.31" endPos="22.31"/>
+    <busStop id="27802" name="Haltmayrstraße" lane="128906555_1" startPos="25.77" endPos="35.77"/>
+    <busStop id="28201" name="Hans-Mielich-Straße " lane="-32530108#3_1" startPos="68.08" endPos="94.08" friendlyPos="true"/>
+    <busStop id="28202" name="Hans-Mielich-Straße " lane="32530108#3_1" startPos="6.95" endPos="32.95" friendlyPos="true"/>
+    <busStop id="28401" name="Harderstraße " lane="-32924041#0_1" startPos="0.00" endPos="19.25" friendlyPos="true"/>
+    <busStop id="28402" name="Harderstraße " lane="32924041#0_1" startPos="0.72" endPos="26.72" friendlyPos="true"/>
+    <busStop id="28601" name="Haslangstraße" lane="18809673#9_2" startPos="0.69" endPos="10.69"/>
+    <busStop id="28602" name="Haslangstraße" lane="-18809673#5_2" startPos="2.15" endPos="12.15"/>
+    <busStop id="28701" name="Haunwöhrer Straße" lane="-174609517#4_2" startPos="5.31" endPos="15.31"/>
+    <busStop id="28702" name="Haunwöhrer Straße" lane="174609517#4_2" startPos="25.17" endPos="35.17"/>
+    <busStop id="29101" name="Heidemannstraße" lane="-653473569#2_2" startPos="31.06" endPos="41.06" friendlyPos="true"/>
+    <busStop id="29102" name="Heidemannstraße" lane="653473569#3_2" startPos="19.99" endPos="29.99" friendlyPos="true">
+        <param key="Busbucht" value="ja"/>
+    </busStop>
+    <busStop id="30499" name="Herschelstraße" lane="379520414#1_1" startPos="1.93" endPos="16.95" friendlyPos="true"/>
+    <busStop id="30701" name="Heydeckstraße" lane="64464405_2" startPos="56.52" endPos="82.52" friendlyPos="true"/>
+    <busStop id="30801" name="Heysestraße" lane="30482638#2_1" startPos="28.46" endPos="54.46" friendlyPos="true"/>
+    <busStop id="30802" name="Heysestraße" lane="-30482638#2_1" startPos="24.77" endPos="50.77" friendlyPos="true"/>
+    <busStop id="30901" name="Hindemithstraße" lane="54169280#5_2" startPos="5.57" endPos="15.57" friendlyPos="true">
+        <param key="Busbucht" value="ja"/>
+    </busStop>
+    <busStop id="31301" name="Hölderlinstraße" lane="-97304242#6_2" startPos="18.96" endPos="28.96"/>
+    <busStop id="31302" name="Hölderlinstraße" lane="97304242#6_2" startPos="117.89" endPos="127.89"/>
+    <busStop id="3202" name="Alban-Berg-Straße" lane="176550249#6_2" startPos="20.28" endPos="43.32"/>
+    <busStop id="32501" name="Hugo-Wolf-Straße" lane="24634505_1" startPos="6.25" endPos="32.25" friendlyPos="true"/>
+    <busStop id="34002" name="Jurastraße" lane="-307536275#0_1" startPos="104.43" endPos="130.43" friendlyPos="true"/>
+    <busStop id="34098" name="Jurastraße" lane="393420112#2_1" startPos="0.06" endPos="25.98"/>
+    <busStop id="34099" name="Jurastraße" lane="-393420112#2_1" startPos="1.33" endPos="27.33" friendlyPos="true"/>
+    <busStop id="34101" name="Kälberschüttstraße/IN Campus" lane="164051405#1_0" startPos="30.06" endPos="56.06" friendlyPos="true">
+        <param key="Busbucht" value="ja"/>
+    </busStop>
+    <busStop id="34102" name="Kälberschüttstraße/IN Campus" lane="-164051405#1_0" startPos="25.81" endPos="51.81" friendlyPos="true"/>
+    <busStop id="3501" name="Am Augraben" lane="29459180#0_1" startPos="37.76" endPos="63.76" friendlyPos="true"/>
+    <busStop id="3502" name="Am Augraben" lane="-29459180#0_1" startPos="8.14" endPos="34.14" friendlyPos="true"/>
+    <busStop id="3801" name="Am Auwaldsee " lane="-203971377#0_1" startPos="147.89" endPos="173.89" friendlyPos="true"/>
+    <busStop id="3802" name="Am Auwaldsee " lane="42444460#4_1" startPos="17.80" endPos="43.80" friendlyPos="true"/>
+    <busStop id="38201" name="Keplerstraße" lane="201201953#4_2" startPos="4.05" endPos="23.20"/>
+    <busStop id="39001" name="Klinikum" lane="378946911_1" startPos="0.00" endPos="26.00" friendlyPos="true">
+        <param key="Busbucht" value="ja"/>
+    </busStop>
+    <busStop id="39002" name="Klinikum" lane="378946911_1" startPos="25.15" endPos="51.15" friendlyPos="true">
+        <param key="Busbucht" value="ja"/>
+    </busStop>
+    <busStop id="3901" name="Am Dachsberg " lane="-24754837#1_1" startPos="167.11" endPos="193.11" friendlyPos="true"/>
+    <busStop id="3902" name="Am Dachsberg " lane="24754837#1_1" startPos="0.00" endPos="13.00" friendlyPos="true"/>
+    <busStop id="39099" name="Klinikum" lane="201201949#1_1" startPos="2.65" endPos="28.65" friendlyPos="true">
+        <param key="Busbucht" value="ja"/>
+    </busStop>
+    <busStop id="39601" name="Körnerstraße " lane="202070427#1_2" startPos="0.00" endPos="22.15" friendlyPos="true"/>
+    <busStop id="39602" name="Körnerstraße " lane="33280102#2_2" startPos="49.83" endPos="75.83" friendlyPos="true"/>
+    <busStop id="4001" name="Am Franziskanerwasser " lane="-146973200#1_1" startPos="82.71" endPos="108.71" friendlyPos="true"/>
+    <busStop id="4002" name="Am Franziskanerwasser " lane="146973200#1_1" startPos="91.75" endPos="117.75" friendlyPos="true"/>
+    <busStop id="41801" name="Kösching-Desching, Raffinerietor" lane="39857772#1_1" startPos="11.14" endPos="21.14"/>
+    <busStop id="42501" name="Universität (Kreuztor)" lane="-749560260_1" startPos="0.00" endPos="25.07" friendlyPos="true">
+        <param key="DHID" value="test"/>
+    </busStop>
+    <busStop id="42502" name="Universität (Kreuztor)" lane="749560260_1" startPos="12.74" endPos="38.74" friendlyPos="true"/>
+    <busStop id="42601" name="St. Pius / Kroppstraße" lane="23166741#5_2" startPos="21.58" endPos="37.83" friendlyPos="true"/>
+    <busStop id="42701" name="Kurt-Huber-Straße" lane="201789794#1_2" startPos="0.73" endPos="22.20" friendlyPos="true">
+        <param key="Busbucht" value="ja"/>
+    </busStop>
+    <busStop id="42702" name="Kurt-Huber-Straße " lane="149045269#3_1" startPos="6.02" endPos="32.02" friendlyPos="true"/>
+    <busStop id="42704" name="Kurt-Huber-Straße/Goethestraße" lane="-308849647#0_2" startPos="21.69" endPos="31.69">
+        <param key="Busbucht" value="ja"/>
+    </busStop>
+    <busStop id="43001" name="St. Johannes / Ettinger Str." lane="-315358242#0_2" startPos="49.03" endPos="59.03"/>
+    <busStop id="43002" name="St. Johannes / Ettinger Str." lane="315358242#0_2" startPos="56.97" endPos="66.97"/>
+    <busStop id="44302" name="44302" lane="737320747#1_2" startPos="20.45" endPos="30.45" friendlyPos="true"/>
+    <busStop id="44701" name="St. Johannes / Ettinger Str." lane="-40888351#0_1" startPos="73.40" endPos="98.72" friendlyPos="true"/>
+    <busStop id="44702" name="Leharstraße" lane="40888351#0_1" startPos="18.29" endPos="44.29" friendlyPos="true"/>
+    <busStop id="44801" name="Lena-Christ-Straße" lane="153220338#2_1" startPos="1.39" endPos="27.39" friendlyPos="true"/>
+    <busStop id="44802" name="Lena-Christ-Straße" lane="-153220338#4_1" startPos="0.00" endPos="26.00" friendlyPos="true"/>
+    <busStop id="46201" name="Levelingstraße" lane="-24754876#5_2" startPos="17.83" endPos="27.83"/>
+    <busStop id="46202" name="Levelingstraße" lane="24754876#5_2" startPos="14.32" endPos="24.32"/>
+    <busStop id="46501" name="Stargarder Straße" lane="-201953160#3_1" startPos="68.51" endPos="78.51"/>
+    <busStop id="46701" name="Lindberghstraße " lane="-201933879#0_1" startPos="22.23" endPos="48.23" friendlyPos="true"/>
+    <busStop id="46702" name="Lindberghstraße " lane="201933879#0_1" startPos="2.27" endPos="28.27" friendlyPos="true"/>
+    <busStop id="46801" name="Linnestraße" lane="173169611#5_1" startPos="3.66" endPos="13.66" friendlyPos="true"/>
+    <busStop id="46802" name="Linnestraße" lane="-173169612_1" startPos="22.30" endPos="32.30"/>
+    <busStop id="47301" name="Mailing, Schule " lane="146973236#11_1" startPos="16.17" endPos="42.17" friendlyPos="true">
+        <param key="Busbucht" value="ja"/>
+    </busStop>
+    <busStop id="47302" name="Mailing, Schule " lane="-146973236#11_1" startPos="0.00" endPos="16.73" friendlyPos="true">
+        <param key="Busbucht" value="ja"/>
+    </busStop>
+    <busStop id="5001" name="Am Stadtweg" lane="-51262567#2_2" startPos="81.38" endPos="91.38"/>
+    <busStop id="5002" name="Am Stadtweg" lane="51262567#3_2" startPos="33.96" endPos="43.96"/>
+    <busStop id="501" name="Audi - GVZ" lane="201894096#0_1" startPos="0.00" endPos="14.07" friendlyPos="true"/>
+    <busStop id="502" name="Audi - GVZ" lane="-220012723_2" startPos="0.00" endPos="13.00" friendlyPos="true"/>
+    <busStop id="50501" name="Marienplatz" lane="54154971_1" startPos="7.87" endPos="33.87" friendlyPos="true"/>
+    <busStop id="50502" name="Marienplatz" lane="-54154969#2_1" startPos="4.36" endPos="30.36" friendlyPos="true"/>
+    <busStop id="50899" name="Martin-Hemm-Straße" lane="51890708#1_0" startPos="3.72" endPos="19.22"/>
+    <busStop id="51201" name="Maximilianstraße" lane="-306431425#1_1" startPos="2.79" endPos="23.22"/>
+    <busStop id="51202" name="Maximilianstraße" lane="306431425#1_1" startPos="58.76" endPos="84.76" friendlyPos="true"/>
+    <busStop id="51601" name="Mendlstraße" lane="-51244813#6_2" startPos="9.74" endPos="35.74" friendlyPos="true"/>
+    <busStop id="51602" name="Mendlstraße" lane="51244813#7_2" startPos="4.73" endPos="25.21"/>
+    <busStop id="51901" name="Messerschmittstraße " lane="146973225#1.37_0" startPos="12.08" endPos="38.08" friendlyPos="true"/>
+    <busStop id="51902" name="Messerschmittstraße " lane="-146973225#1_0" startPos="9.25" endPos="35.25" friendlyPos="true"/>
+    <busStop id="52602" name="St. Pius / Mozartstraße" lane="201201950#4_2" startPos="6.68" endPos="31.37"/>
+    <busStop id="53999" name="Niederfeld" lane="38434578_1" startPos="74.81" endPos="100.81" friendlyPos="true"/>
+    <busStop id="54393" name="Nordbahnhof / West Bussteig 3" lane="391606922_0" startPos="3.58" endPos="24.85"/>
+    <busStop id="54395" name="Nordbahnhof / West Bussteig 4" lane="203127052_0" startPos="5.01" endPos="17.53"/>
+    <busStop id="54396" name="Nordbahnhof / West Bussteig 2" lane="-203127050_0" startPos="1.26" endPos="14.50"/>
+    <busStop id="54397" name="Nordbahnhof / West  Bussteig 5" lane="203127050_0" startPos="0.00" endPos="13.29"/>
+    <busStop id="54398" name="Nordbahnhof / West Bussteig 1" lane="-203127052_0" startPos="3.27" endPos="16.50"/>
+    <busStop id="54399" name="Nordbahnhof / West Bussteig 6" lane="306726646_1" startPos="0.00" endPos="20.61" friendlyPos="true"/>
+    <busStop id="54401" name="Nordfriedhof" lane="201950263#5_2" startPos="2.28" endPos="17.32"/>
+    <busStop id="54402" name="Nordfriedhof" lane="-201950263#5_1" startPos="1.70" endPos="16.29"/>
+    <busStop id="54702" name="Nürnberger Straße " lane="266567304#0_2" startPos="17.41" endPos="43.41" friendlyPos="true"/>
+    <busStop id="55101" name="Oberer Grasweg" lane="-274823622#1_1" startPos="8.23" endPos="34.23" friendlyPos="true"/>
+    <busStop id="55102" name="Oberer Grasweg" lane="274823622#0_1" startPos="32.35" endPos="58.35" friendlyPos="true"/>
+    <busStop id="55202" name="Dorfplatz, Oberhaunstadt" lane="-201828014#2_1" startPos="0.08" endPos="26.08" friendlyPos="true"/>
+    <busStop id="56402" name="Osnabrücker Straße" lane="-391029012#0_1" startPos="5.32" endPos="31.32" friendlyPos="true"/>
+    <busStop id="57201" name="Parreutstraße" lane="-41139660#0_1" startPos="4.78" endPos="30.78" friendlyPos="true"/>
+    <busStop id="57202" name="Parreutstraße" lane="41139660#1_1" startPos="0.00" endPos="18.65" friendlyPos="true"/>
+    <busStop id="57301" name="Paul-Wegmann-Halle" lane="-205182378#2_1" startPos="130.77" endPos="156.77" friendlyPos="true"/>
+    <busStop id="57302" name="Paul-Wegmann-Halle" lane="32530108#5_1" startPos="27.53" endPos="53.53" friendlyPos="true"/>
+    <busStop id="57401" name="Peisserstraße" lane="201956816#0_1" startPos="0.00" endPos="14.32" friendlyPos="true"/>
+    <busStop id="57402" name="Peisserstraße" lane="-201956816#0_1" startPos="27.82" endPos="53.82" friendlyPos="true"/>
+    <busStop id="57701" name="Peringerstraße" lane="-25625950#1_1" startPos="0.00" endPos="13.00" friendlyPos="true"/>
+    <busStop id="57702" name="Peringerstraße" lane="25626614#3_1" startPos="126.16" endPos="152.16" friendlyPos="true"/>
+    <busStop id="57703" name="Peringerstraße" lane="-25626614#3_1" startPos="30.40" endPos="54.99"/>
+    <busStop id="57801" name="Permoserstraße" lane="-201963533#1.188_1" startPos="1.29" endPos="27.29" friendlyPos="true"/>
+    <busStop id="57802" name="Permoserstraße" lane="201963533#1_1" startPos="14.67" endPos="40.67" friendlyPos="true"/>
+    <busStop id="57901" name="Pestalozzistraße" lane="305495773#2_2" startPos="5.71" endPos="31.71" friendlyPos="true"/>
+    <busStop id="57902" lane="257907860_2" startPos="85.61" endPos="113.60"/>
+    <busStop id="58002" name="Peter-Steuart-Heim" lane="-28319300#2_1" startPos="7.76" endPos="26.18"/>
+    <busStop id="58101" name="Pettenkoferstraße " lane="201926269#0_1" startPos="0.00" endPos="20.90" friendlyPos="true"/>
+    <busStop id="58102" name="Pettenkoferstraße " lane="-389840423#2_1" startPos="0.00" endPos="16.98" friendlyPos="true"/>
+    <busStop id="58401" name="Pfitznerstraße" lane="-26677214#0_1" startPos="1.52" endPos="16.76"/>
+    <busStop id="58402" name="Pfitznerstraße" lane="26677214#3_1" startPos="0.00" endPos="26.00" friendlyPos="true"/>
+    <busStop id="59301" name="Pionierkaserne" lane="-266887593#1_2" startPos="32.71" endPos="58.71" friendlyPos="true"/>
+    <busStop id="59302" name="Pionierkaserne" lane="266887591_2" startPos="19.76" endPos="45.76" friendlyPos="true"/>
+    <busStop id="59601" name="Plunder " lane="38434492#5_1" startPos="0.00" endPos="19.31" friendlyPos="true"/>
+    <busStop id="59602" name="Plunder " lane="-38434492#4_1" startPos="60.90" endPos="86.90" friendlyPos="true"/>
+    <busStop id="60601" name="Rankestraße" lane="58295043_2" startPos="0.00" endPos="25.92" friendlyPos="true"/>
+    <busStop id="60602" name="Rankestraße" lane="-58295043_2" startPos="0.00" endPos="13.00" friendlyPos="true"/>
+    <busStop id="60701" name="Ingolstadt, Rathausplatz/Schutterstraße " lane="753083360#1_1" startPos="0.00" endPos="22.61" friendlyPos="true"/>
+    <busStop id="60702" name="Ingolstadt, Rathausplatz/Schutterstraße " lane="-753083360#0_1" startPos="0.00" endPos="26.00" friendlyPos="true"/>
+    <busStop id="60705" name="Rathausplatz Bussteig 1" lane="-32201172#0_1" startPos="0.00" endPos="16.58" friendlyPos="true"/>
+    <busStop id="60706" name="Rathausplatz Bussteig 2" lane="32201172#1_1" startPos="0.00" endPos="17.57" friendlyPos="true"/>
+    <busStop id="61201" name="Rechbergstraße" lane="24537982#2_1" startPos="3.90" endPos="13.90"/>
+    <busStop id="61202" name="Rechbergstraße" lane="-24537982#2_1" startPos="3.44" endPos="13.44"/>
+    <busStop id="61301" name="Regensburger Straße " lane="201789799#1_1" startPos="8.45" endPos="34.45" friendlyPos="true"/>
+    <busStop id="61302" name="Regensburger Straße " lane="-201789799#1_1" startPos="34.20" endPos="60.20" friendlyPos="true"/>
+    <busStop id="62601" name="Richard-Strauss-Straße" lane="24634510#5_1" startPos="3.17" endPos="29.17" friendlyPos="true"/>
+    <busStop id="62901" name="Richard-Wagner-Straße" lane="201201953#11_2" startPos="121.41" endPos="145.77"/>
+    <busStop id="62902" name="Richard-Wagner-Straße" lane="176550249#4_2" startPos="23.19" endPos="47.68"/>
+    <busStop id="63301" name="Rothenturm" lane="201400763#0_1" startPos="36.22" endPos="62.22" friendlyPos="true"/>
+    <busStop id="63302" name="Rothenturm" lane="-201400763#1_1" startPos="3.06" endPos="16.06" friendlyPos="true"/>
+    <busStop id="63401" name="Rothenturmer Straße " lane="541286865#2_1" startPos="3.04" endPos="29.04" friendlyPos="true"/>
+    <busStop id="63402" name="Rothenturmer Straße " lane="-541286865#2_1" startPos="252.30" endPos="278.30" friendlyPos="true"/>
+    <busStop id="63403" name="Rothenturmer Straße " lane="305496617#0_1" startPos="27.67" endPos="53.67" friendlyPos="true"/>
+    <busStop id="64001" name="Schatzgerstraße " lane="-201201935#7_1" startPos="0.00" endPos="13.00" friendlyPos="true"/>
+    <busStop id="64002" name="Schatzgerstraße " lane="393420106#0_1" startPos="0.00" endPos="21.49" friendlyPos="true"/>
+    <busStop id="6401" name="Asamstraße" lane="-746483006#3_1" startPos="11.85" endPos="37.85" friendlyPos="true"/>
+    <busStop id="6402" name="Asamstraße" lane="746483006#2_1" startPos="5.52" endPos="31.52" friendlyPos="true"/>
+    <busStop id="64301" name="Schellingstraße " lane="202070435#11_1" startPos="105.08" endPos="131.08" friendlyPos="true"/>
+    <busStop id="64302" name="Schellingstraße " lane="-202070435#11_1" startPos="117.02" endPos="143.02" friendlyPos="true"/>
+    <busStop id="64501" name="Scherzerstraße" lane="-315358248#1_2" startPos="14.31" endPos="24.31" friendlyPos="true"/>
+    <busStop id="64502" name="Scherzerstraße" lane="315358248#1_2" startPos="9.40" endPos="19.40" friendlyPos="true"/>
+    <busStop id="64801" name="Schneiderbauerstraße" lane="266607802#1_2" startPos="41.21" endPos="58.01"/>
+    <busStop id="64802" name="Schneiderbauerstraße" lane="-266607795#1_2" startPos="2.42" endPos="18.62"/>
+    <busStop id="64901" name="Schölnhammerstraße" lane="-542650762_1" startPos="26.92" endPos="36.92"/>
+    <busStop id="64999" name="Schölnhammerstraße" lane="25626614#0_1" startPos="0.00" endPos="13.86" friendlyPos="true"/>
+    <busStop id="6501" name="Audi - Forum " lane="-315358250_0" startPos="3.63" endPos="23.63" friendlyPos="true"/>
+    <busStop id="6502" name="Audi - Forum" lane="379897807#0_0" startPos="14.06" endPos="24.06"/>
+    <busStop id="65501" name="Schröplerstraße " lane="-20314044#0_1" startPos="93.68" endPos="119.68" friendlyPos="true"/>
+    <busStop id="65502" name="Schröplerstraße " lane="20314044#0_1" startPos="30.10" endPos="56.10" friendlyPos="true"/>
+    <busStop id="65901" name="Schultheißstraße" lane="-24754837#8_1" startPos="0.00" endPos="21.54" friendlyPos="true"/>
+    <busStop id="65902" name="Schultheißstraße" lane="24754837#7_1" startPos="23.48" endPos="49.48" friendlyPos="true"/>
+    <busStop id="67101" name="Seidelbaststraße" lane="146973236#5_1" startPos="2.11" endPos="28.11" friendlyPos="true"/>
+    <busStop id="67102" name="Seidelbaststraße" lane="-146973236#5_1" startPos="21.61" endPos="47.61" friendlyPos="true"/>
+    <busStop id="67201" name="Semmerseeweg " lane="27196044#3_1" startPos="9.82" endPos="35.82" friendlyPos="true"/>
+    <busStop id="67202" name="Semmerseeweg " lane="-27196044#3_1" startPos="1.97" endPos="27.97" friendlyPos="true"/>
+    <busStop id="67301" name="Audi - Senefelderstraße " lane="-129379922_2" startPos="0.00" endPos="21.71" friendlyPos="true"/>
+    <busStop id="67302" name="Audi - Senefelderstraße " lane="129379922_2" startPos="0.00" endPos="20.25" friendlyPos="true"/>
+    <busStop id="67701" name="Spitzlmühle" lane="107431496#4_1" startPos="8.80" endPos="34.80" friendlyPos="true"/>
+    <busStop id="67702" name="Spitzlmühle" lane="-107431496#4_1" startPos="55.56" endPos="81.56" friendlyPos="true"/>
+    <busStop id="68801" name="Stadttheater" lane="32350852#1_2" startPos="39.23" endPos="49.23"/>
+    <busStop id="68802" name="Stadttheater " lane="-32350852#1.43_2" startPos="30.53" endPos="40.53"/>
+    <busStop id="69101" name="Stadtwerke / Continental" lane="54169280#1_2" startPos="12.00" endPos="22.00"/>
+    <busStop id="69102" name="Stadtwerke / Continental" lane="28639688#2_2" startPos="3.07" endPos="13.07"/>
+    <busStop id="69103" name="Stadtwerke / Continental" lane="-138002149#3_2" startPos="40.18" endPos="56.79"/>
+    <busStop id="69104" name="Stadtwerke / Continental" lane="138002149#3_2" startPos="39.61" endPos="58.18"/>
+    <busStop id="70401" name="Südfriedhof" lane="-155847374#2_1" startPos="130.59" endPos="140.59"/>
+    <busStop id="70402" name="Südfriedhof" lane="155847374#2_1" startPos="10.05" endPos="20.05"/>
+    <busStop id="70701" name="Sutrisstraße" lane="441810448#0_2" startPos="13.80" endPos="25.30"/>
+    <busStop id="70702" name="Sustrisstraße" lane="-441810448#0_2" startPos="89.09" endPos="99.09">
+        <param key="Busbucht" value="ja"/>
+    </busStop>
+    <busStop id="70801" name="Taschenturm" lane="-51856496#5_2" startPos="14.37" endPos="24.37"/>
+    <busStop id="70802" name="Taschenturm" lane="51856496#4_2" startPos="12.67" endPos="22.67"/>
+    <busStop id="70901" name="Tassilostraße" lane="20266195#3_1" startPos="0.54" endPos="26.54" friendlyPos="true"/>
+    <busStop id="70902" name="Tassilostraße" lane="-20266195#3_1" startPos="0.00" endPos="24.11" friendlyPos="true"/>
+    <busStop id="71801" name="Telemannstraße" lane="315392062#0_2" startPos="19.82" endPos="43.68"/>
+    <busStop id="71802" name="Telemannstraße" lane="-24693977#1_2" startPos="6.11" endPos="30.01"/>
+    <busStop id="72001" name="Theodor-Heuss-Brücke" lane="31342349#3_2" startPos="19.76" endPos="29.76">
+        <param key="Busbucht" value="ja"/>
+    </busStop>
+    <busStop id="72002" name="Theodor-Heuss-Brücke" lane="31342347_2" startPos="23.64" endPos="33.64">
+        <param key="Busbucht" value="ja"/>
+    </busStop>
+    <busStop id="72101" name="Theodor-Heuss-Straße" lane="4942575#3_2" startPos="40.02" endPos="60.05">
+        <param key="Busbucht" value="ja"/>
+    </busStop>
+    <busStop id="72102" name="Theodor-Heuss-Straße" lane="31342350#0_2" startPos="80.66" endPos="102.48">
+        <param key="Busbucht" value="ja"/>
+    </busStop>
+    <busStop id="72201" name="Uhlandstraße " lane="202070427#3_2" startPos="49.47" endPos="75.47" friendlyPos="true"/>
+    <busStop id="72202" name="Uhlandstraße " lane="33280102#0_2" startPos="5.62" endPos="31.62" friendlyPos="true"/>
+    <busStop id="72301" name="Ungernederstraße" lane="201201945#3_2" startPos="92.13" endPos="102.13"/>
+    <busStop id="72302" name="Ungernederstraße" lane="-201201945#1_2" startPos="8.25" endPos="28.47"/>
+    <busStop id="72801" name="Unterer Grasweg" lane="137463478#1.19_2" startPos="39.57" endPos="49.57"/>
+    <busStop id="72802" name="Unterer Grasweg" lane="-137463478#2_2" startPos="69.35" endPos="79.35"/>
+    <busStop id="72901" name="Unterhaunstädter Weg" lane="97304242#2_2" startPos="14.47" endPos="24.47"/>
+    <busStop id="72902" name="Unterhaunstädter Weg" lane="-97304242#2_2" startPos="35.06" endPos="45.06"/>
+    <busStop id="73801" name="Aubürgerstraße" lane="-200908887_1" startPos="30.92" endPos="40.92"/>
+    <busStop id="73802" name="Aubürgerstraße" lane="200908887_1" startPos="10.04" endPos="20.04"/>
+    <busStop id="7401" name="Audi - Tor 10" lane="-32061997_2" startPos="12.99" endPos="38.99" friendlyPos="true"/>
+    <busStop id="7402" name="Audi - Tor 10" lane="32061997.96_0" startPos="0.00" endPos="18.19" friendlyPos="true"/>
+    <busStop id="7403" name="Audi - Tor 10" lane="-164078531#0.144_1" startPos="0.62" endPos="22.20"/>
+    <busStop id="7404" name="Audi - Tor 10" lane="164078531#0_0" startPos="45.25" endPos="71.25" friendlyPos="true"/>
+    <busStop id="74101" name="Waldeysenstraße" lane="201950263#11_2" startPos="9.24" endPos="26.77"/>
+    <busStop id="74102" name="Waldeysenstraße" lane="-201950263#11_1" startPos="20.00" endPos="36.94"/>
+    <busStop id="74401" name="Wallensteinstraße" lane="-391029004#0_1" startPos="42.82" endPos="64.69"/>
+    <busStop id="74402" name="Wallensteinstraße" lane="391029004#0_1" startPos="17.63" endPos="43.63" friendlyPos="true"/>
+    <busStop id="74801" name="Weckenweg " lane="29459182#1_1" startPos="19.04" endPos="45.04" friendlyPos="true"/>
+    <busStop id="74802" name="Weckenweg " lane="-29459182#1_1" startPos="38.05" endPos="64.05" friendlyPos="true"/>
+    <busStop id="75601" name="Wennigstraße" lane="37282688#3_2" startPos="19.43" endPos="29.43"/>
+    <busStop id="75602" name="Weningstraße" lane="-37282688#2_2" startPos="17.33" endPos="27.33"/>
+    <busStop id="75701" name="Werdenfelser Straße" lane="-24754837#2_1" startPos="10.69" endPos="20.69" friendlyPos="true"/>
+    <busStop id="75702" name="Werdenfelser Straße " lane="24754837#1_1" startPos="167.02" endPos="193.02" friendlyPos="true"/>
+    <busStop id="7601" name="Auf der Schanz" lane="-389840420#0_1" startPos="7.53" endPos="17.53">
+        <param key="Busbucht" value="ja"/>
+    </busStop>
+    <busStop id="7602" name="Auf der Schanz" lane="389840420#0_1" startPos="10.18" endPos="20.18">
+        <param key="Busbucht" value="ja"/>
+    </busStop>
+    <busStop id="76901" name="Am Westpark/Audi-Ring " lane="138002148_1" startPos="22.15" endPos="48.15" friendlyPos="true">
+        <param key="Busbucht" value="ja"/>
+    </busStop>
+    <busStop id="76902" name="Am Westpark/Audi-Ring " lane="128361109#0_1" startPos="3.36" endPos="29.36" friendlyPos="true"/>
+    <busStop id="7701" name="Audi - August-Horch-Straße" lane="-1040258009_0" startPos="37.75" endPos="54.53"/>
+    <busStop id="7702" lane="834006805#0_0" startPos="4.52" endPos="42.08"/>
+    <busStop id="78801" name="Ingolstadt, ZOB  Bussteig 01 " lane="-29238015_0" startPos="1.13" endPos="30.00" friendlyPos="true"/>
+    <busStop id="78802" name="Ingolstadt, ZOB  Bussteig 02" lane="29238015_0" startPos="1.87" endPos="35.00" friendlyPos="true"/>
+    <busStop id="78803" name="Ingolstadt, ZOB  Bussteig 03" lane="-378738156_0" startPos="0.41" endPos="30.00" friendlyPos="true"/>
+    <busStop id="78804" name="Ingolstadt, ZOB  Bussteig 04" lane="378738156_0" startPos="0.00" endPos="18.31" friendlyPos="true"/>
+    <busStop id="78805" name="Ingolstadt, ZOB  Bussteig 05" lane="-379514690_0" startPos="1.48" endPos="30.00" friendlyPos="true"/>
+    <busStop id="78806" name="Ingolstadt, ZOB  Bussteig 06" lane="379514690_0" startPos="1.89" endPos="35.00" friendlyPos="true"/>
+    <busStop id="78807" name="Ingolstadt, ZOB  Bussteig 07" lane="-379514685_0" startPos="1.97" endPos="35.00" friendlyPos="true"/>
+    <busStop id="78808" name="Ingolstadt, ZOB  Bussteig 08" lane="379514685_0" startPos="1.68" endPos="30.00" friendlyPos="true"/>
+    <busStop id="78809" name="Ingolstadt, ZOB  Bussteig 09" lane="-379514688_0" startPos="1.31" endPos="30.00" friendlyPos="true"/>
+    <busStop id="78810" name="Ingolstadt, ZOB  Bussteig 02" lane="379514688_0" startPos="1.34" endPos="35.00" friendlyPos="true"/>
+    <busStop id="78811" name="Ingolstadt, ZOB  Bussteig 11" lane="-749560256#4_0" startPos="2.42" endPos="25.67"/>
+    <busStop id="78812" name="Ingolstadt, ZOB Bussteig 12" lane="749560256#4_0" startPos="5.85" endPos="33.75"/>
+    <busStop id="78813" name="Ingolstadt, ZOB  Bussteig 13" lane="-80369257#1_0" startPos="3.22" endPos="17.21"/>
+    <busStop id="78814" name="Ingolstadt, ZOB  Bussteig 14" lane="-29238022_0" startPos="0.00" endPos="19.17"/>
+    <busStop id="78815" name="Ingolstadt, ZOB  Bussteig 15" lane="29238022_0" startPos="0.73" endPos="19.36"/>
+    <busStop id="78816" name="Ingolstadt, ZOB  Bussteig 16" lane="-29238023_0" startPos="0.00" endPos="20.00"/>
+    <busStop id="78817" name="Ingolstadt, ZOB  Bussteig 17" lane="29238023_0" startPos="0.68" endPos="29.76" friendlyPos="true"/>
+    <busStop id="78818" name="Ingolstadt, ZOB  Bussteig 18" lane="-29238024_0" startPos="1.41" endPos="25.50" friendlyPos="true"/>
+    <busStop id="78819" name="Ingolstadt, ZOB  Bussteig 19" lane="29238024_0" startPos="0.00" endPos="27.74" friendlyPos="true"/>
+    <busStop id="78820" name="Ingolstadt, ZOB  Bussteig 20" lane="-51856500_0" startPos="2.17" endPos="40.55" friendlyPos="true"/>
+    <busStop id="78831" name="Ingolstadt, ZOB Harderstraße" lane="-29458096#1_1" startPos="5.68" endPos="31.68" friendlyPos="true"/>
+    <busStop id="78832" name="Ingolstadt, ZOB Harderstraße" lane="51856495#1_2" startPos="2.21" endPos="28.21" friendlyPos="true"/>
+    <busStop id="78833" name="Ingolstadt, ZOB  Bussteig A" lane="-29238044#0_0" startPos="0.00" endPos="13.00" friendlyPos="true"/>
+    <busStop id="78834" name="Ingolstadt, ZOB  Bussteig B" lane="-29238044#1_0" startPos="0.10" endPos="12.80" friendlyPos="true"/>
+    <busStop id="78835" name="Ingolstadt, ZOB  Bussteig C" lane="-29238044#2_0" startPos="0.00" endPos="13.00" friendlyPos="true"/>
+    <busStop id="78901" name="Linnestraße" lane="-18813598#8_2" startPos="28.81" endPos="38.81"/>
+    <busStop id="78902" name="Zoo Wasserstern" lane="18813598#8_2" startPos="146.86" endPos="156.86"/>
+    <busStop id="7901" name="Aventinstraße" lane="201933877#2_1" startPos="0.00" endPos="18.26" friendlyPos="true"/>
+    <busStop id="79599" name="Am Westpark 2" lane="35744155#2_1" startPos="32.18" endPos="58.18" friendlyPos="true"/>
+    <busStop id="79699" name="Am Westpark 3" lane="201201938#1_1" startPos="31.00" endPos="57.00" friendlyPos="true"/>
+    <busStop id="80301" name="Ingolstadt, Hauptbahnhof Stadtauswärts" lane="379721536#1_0" startPos="26.61" endPos="36.61"/>
+    <busStop id="80302" name="Ingolstadt, Hauptbahnhof Stadteinwärts" lane="379723622#1_1" startPos="25.72" endPos="35.72" friendlyPos="true"/>
+    <busStop id="80303" name="Ingolstadt, Hauptbahnhof Stadtauswärts" lane="379721536#1_0" startPos="1.56" endPos="11.56"/>
+    <busStop id="80304" name="Ingolstadt, Hauptbahnhof Stadteinwärts" lane="379723622#1_1" startPos="0.95" endPos="10.95"/>
+    <busStop id="80701" name="Mariengarten " lane="150746347#0_1" startPos="40.93" endPos="66.93" friendlyPos="true">
+        <param key="Busbucht" value="ja"/>
+    </busStop>
+    <busStop id="80702" name="Mariengarten " lane="-150746347#1_1" startPos="0.00" endPos="23.40" friendlyPos="true">
+        <param key="Busbucht" value="ja"/>
+    </busStop>
+    <busStop id="83501" name="Westfriedhof" lane="25149219#2_0" startPos="93.32" endPos="114.16"/>
+    <busStop id="83502" name="Westfriedhof " lane="124812857#0_2" startPos="25.44" endPos="45.59" friendlyPos="true">
+        <param key="Busbucht" value="ja"/>
+    </busStop>
+    <busStop id="84401" name="Westfriedhof / Brodmühlweg" lane="201956819#1.66_2" startPos="3.02" endPos="13.02"/>
+    <busStop id="84999" name="Audi - Parkplatz" lane="320733917#2_0" startPos="26.15" endPos="51.01"/>
+    <busStop id="85001" name="Johann-Michael-Sailer-Straße" lane="201201940#0_1" startPos="80.74" endPos="106.74" friendlyPos="true"/>
+    <busStop id="85002" name="Johann-Michael-Sailer-Straße" lane="-201201940#0_1" startPos="7.55" endPos="33.55" friendlyPos="true"/>
+    <busStop id="8801" name="Bei der Hollerstaude" lane="201201936#12_1" startPos="0.00" endPos="15.10" friendlyPos="true"/>
+    <busStop id="8802" name="Bei der Hollerstaude" lane="-201201936#12_1" startPos="18.31" endPos="44.31" friendlyPos="true"/>
+    <busStop id="8901" name="Beilngrieser Straße " lane="201828014#0_1" startPos="0.00" endPos="15.15" friendlyPos="true">
+        <param key="Busbucht" value="ja"/>
+    </busStop>
+    <busStop id="8902" name="Beilngrieser Straße " lane="-144655547#3_1" startPos="2.71" endPos="28.71" friendlyPos="true"/>
+    <busStop id="9601" name="Blücherstraße" lane="-71809618#4_2" startPos="31.29" endPos="41.29"/>
+    <busStop id="9602" name="Blücherstraße" lane="71809618#4_1" startPos="28.97" endPos="38.97"/>
+    <trainStop id="GAIM_2" name="GAimersheim Gleis 2" lane="42738696#0_0" startPos="226.09" endPos="384.56"/>
+    <trainStop id="GAIM_3" name="Gaimersheim Gleis 3" lane="42738703#0_0" startPos="260.61" endPos="420.61"/>
+    <trainStop id="IN_Audi_1" name="In Audi Gleis 1" lane="571435361_0" startPos="145.74" endPos="378.50"/>
+    <trainStop id="IN_Audi_2" name="IN Audi Gleis 2" lane="33280882#1_0" startPos="659.65" endPos="894.65"/>
+    <trainStop id="IN_Hbf_1" name="IN Hbf Gleis 1" lane="-137627150_0" startPos="112.80" endPos="262.80"/>
+    <trainStop id="IN_Hbf_2" name="IN Hbf Gleis 2" lane="137627148_0" startPos="158.89" endPos="308.01"/>
+    <trainStop id="IN_Hbf_3" name="IN Hbf Gleis 3 B" lane="137627152#0_0" startPos="0.00" endPos="72.00"/>
+    <trainStop id="IN_Hbf_4" name="IN Hbf Gleis 4 " lane="-137627144_0" startPos="183.49" endPos="330.49"/>
+    <trainStop id="IN_Hbf_5" name="IN Hbf Gleis 5" lane="762504587#1_0" startPos="191.82" endPos="341.66"/>
+    <trainStop id="IN_Hbf_6a" name="IN Hbf Gleis 6 A" lane="98599820#0_0" startPos="0.00" endPos="85.00"/>
+    <trainStop id="IN_Hbf_6b" name="IN Hbf Gleis 6 B" lane="137627155_0" startPos="567.72" endPos="632.72" friendlyPos="true"/>
+    <trainStop id="IN_Hbf_7" name="IN Hbf Gleis 7" lane="38243841#2_0" startPos="352.04" endPos="501.03"/>
+    <trainStop id="IN_Nord_3" name="IN Nord Gleis 3" lane="-329029018#4_0" startPos="69.40" endPos="399.48" personCapacity="60"/>
+    <trainStop id="IN_Nord_4" name="IN Nord Gleis 4" lane="9636193#1_0" startPos="21.39" endPos="201.39"/>
+    <trainStop id="IN_Nord_5" name="In Nord Gleis 5" lane="134536456#1_0" startPos="132.49" endPos="312.49"/>
+    <trainStop id="IN_Nord_6" name="IN Nord Gleis 6" lane="-39023740_0" startPos="80.19" endPos="328.87" friendlyPos="true"/>
+    <trainStop id="IN_Nord_7" name="IN Nord Gleis 7" lane="48088387#1_0" startPos="146.84" endPos="374.67"/>
+    <!-- Shapes -->
+    <poly id="001" color="red" fill="1" layer="2.00" shape="7055.272713,6803.108001 7035.272713,6823.108001 7075.272713,6823.108001 7055.272713,6843.108001"/>
+</additional>

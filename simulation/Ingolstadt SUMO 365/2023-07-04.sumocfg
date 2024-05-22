@@ -1,0 +1,18 @@
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+  <input>
+    <net-file value="ingolstadt_net.net.xml" />
+    <route-files value="Routes\routes_2023-07-04_24h_det_calib.rou.xml.gz" />
+    <additional-files value="TL\2023-07-04_tlLogics_24h.tll.xml, TL\2023-07-04_WAUT.xml, PT\pt_stops.add.xml, PT\2023-07-04_gtfs_trips.rou.xml" />
+  </input>
+  <time>
+    <begin value="00:00:00" />
+    <end value="24:00:00" />
+  </time>
+  <processing>
+    <step-length value="1" />
+    <ignore-junction-blocker value="15" />
+    <time-to-teleport value="240" />
+    <max-depart-delay value="100" />
+    <device.rerouting.probability value="0.7" />
+  </processing>
+</configuration>
